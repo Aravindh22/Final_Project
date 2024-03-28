@@ -55,7 +55,8 @@ Hardware:
 
 • Minimum 3GB disk space to download and install Jupyter
 
-System Architecture:
+## System Architecture:
+
 
 ## Output:
 
