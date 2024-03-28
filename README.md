@@ -57,9 +57,10 @@ Hardware:
 
 ## System Architecture:
 
+![image](https://github.com/Aravindh22/Final_Project/assets/115762635/8725dba5-7786-45d9-a416-f3b1160378af)
 
 ## Output:
-
+Screenshot_2024-03-28-14-15-20-403-edit_com.google.android.y
 
 ## Results and Impact:
 
